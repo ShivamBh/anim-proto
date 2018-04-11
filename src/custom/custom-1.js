@@ -7,7 +7,7 @@ class AnimationController1 {
   }
 
   init() {
-    console.log('inside Controller init, el is:', this.el);
+    console.log('inside init, el is:', this.el);
   }
 }
 
