@@ -25,7 +25,7 @@
 
   //vars
   $yellow: #d2d498;
-
+ $bgblack: #1e1e1e;
 
   //styles
   .anim-wrapper {
